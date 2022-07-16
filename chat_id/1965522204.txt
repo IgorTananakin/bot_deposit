@@ -1,0 +1,13 @@
+Deposit,Nagad,My deposit problem
+
+1.walet id number-342944109
+
+2.Transations id-no-71AJBN7Y
+
+3.Clent phone number-01628052105
+
+4.Agent phone number-01871913191
+
+5.Date 18.06.2022 /Time  6.29pm
+
+6.Cash out  1000 taka from 01628052105,

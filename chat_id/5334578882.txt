@@ -1,0 +1,12 @@
+Deposit,Rocket,Deposit: Rocket
+User id: 447198135
+Transaction id: 3087007552
+Client phone number: 017154568089
+Agent number: 016353757818
+Date: 09/07/2022
+Time: 4:13am
+Amount: 350
+
+Status: in work 👨‍💻,3087007552,017154568089,016353757818,Date: 09/07/2022
+Time: 4:13am
+Amount: 350

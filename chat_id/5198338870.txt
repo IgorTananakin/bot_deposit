@@ -1,0 +1,1 @@
+Withdraw,Bkash,ডিপোজিট করতে চায় বিকাশ নাম্বার টা দিবেন,If you want to deposit, give me the development number,Hi

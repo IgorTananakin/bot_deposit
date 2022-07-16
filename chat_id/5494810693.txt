@@ -1,0 +1,8 @@
+Deposit,Nagad,Deposit: Nagad
+User id: 426201877
+Transaction id: 71CPZ3QH
+Client phone number: 01830799457
+Agent number: 01799-684122
+Date: 15.07.2022
+Time: 11.20.pm
+Amount: 380,

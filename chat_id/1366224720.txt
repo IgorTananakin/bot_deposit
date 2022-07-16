@@ -1,0 +1,8 @@
+Deposit,Nagad,Deposit: Nagad
+User id: 421717963
+Transaction id: 71A46UCA
+Client phone number: 01938384334
+Agent number: 01767-059977
+Date: 13/6/22
+Time: 6:36
+Amount: 900,71A46UCA

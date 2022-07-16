@@ -1,0 +1,2 @@
+Deposit,Nagad,402286487,Withdraw Problem,
+Rejected (Find out reason for refusal,The security department reserves the right to decline withdrawal requests if deposit or withdrawal amount(s) do not correspond to the stakes of bets placed (to be able to withdraw funds the deposit amount must be wagered in full in bets with odds of at least 1.1). Criteria for withdrawal approval is the amount of bets placed within the deposit in question.

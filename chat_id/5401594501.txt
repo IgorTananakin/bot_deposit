@@ -1,0 +1,7 @@
+Deposit,Bkash,430634961,1.(user ID-Gaming ID):383551829
+2.transection ID/TrxID:9CN2O303PW
+3.Client Phone number :01866159420
+4. Agent Phone number :01779757570
+5.Time and date:06:09pm 23/03/2022
+6.Amount :1000 Taka
+7 screenshot bKash,1894425555,01866159420,11/6/2022,1:41 pm,1000 taka,bksh

@@ -1,0 +1,7 @@
+Withdraw,Nagad,Hello sir,Akta prlm hoyc,1.BDT Wallet No (user ID) : 432043753
+2. Trans ID/TrxID: 9FB2PN76YC
+3. Client phone no: 01873455860
+4. Agent phone no: 01894425555
+5. Bikash time and date: 11/06/2022, 02:29 PM
+6. Amount: 5000
+7. Bikash Screenshot:,

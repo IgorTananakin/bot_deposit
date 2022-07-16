@@ -1,0 +1,9 @@
+Deposit,Nagad,394912239,71C4VPS2,Deposit: Nagad
+User id: 394912239
+Transaction id: 71C4VPS2
+Client phone number: 01725164568
+Agent number:01855528659
+Date: 06.07.2022
+Time: 7.46pm
+Amount: 2000
+Status:

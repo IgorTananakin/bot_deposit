@@ -1,0 +1,19 @@
+Deposit,Bkash,417894021,Hlw,01965559942,1.BDT Game wallet No (384579313)
+
+
+2.Transaction ID / TrxID (9G85HXYOQV)
+
+
+3. Client Bkash phone No: (01965559942)
+
+
+4.Agent Bkash phone No: (01303280595)
+
+
+5. Time and date:03.44am 08/07/2022
+
+
+6. Amount:500Tk
+
+
+7. Screenshot

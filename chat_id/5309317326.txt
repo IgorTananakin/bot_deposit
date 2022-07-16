@@ -1,0 +1,8 @@
+Deposit,Bkash,1. BDT Wallet No (user ID):307613509
+2. Trans ID/ TrxID: 9FM325MHZR
+3. Client phone no:01728373452
+4. Agent phone no:01851779246
+5. Bikash time and date: 22/06/2022,  11.44 am
+6. Amount.1500
+
+7.Bikash Screenshot:

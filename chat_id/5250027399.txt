@@ -1,0 +1,8 @@
+Deposit,Nagad,335652023,Deposit: Nagad
+User id: 335652023
+Transaction id: 71CPA50K
+Client phone number: 01874327503
+Agent number: 01614665664
+Date: 15/07/2022
+Time: 5:21 PM
+Amount: 1900

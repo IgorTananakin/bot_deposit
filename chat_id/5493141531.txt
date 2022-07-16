@@ -1,0 +1,10 @@
+Deposit,Nagad,413289565,Deposit: Nagad
+User id: 413289565
+Transaction id: 71AZG3OI
+Client phone number: 01622609160
+Agent number: 01716148445
+Date: 23-06-2022
+Time: 12:06PM
+Amount: 1000
+
+Status: in work 👨‍💻,আপনাদের কি এখনো কোনো আপডেট আসে নাই এতক্ষণ লাগে,,

@@ -1,0 +1,1 @@
+Deposit,Bkash,427380629,Cash Out Tk 2,000.00 from 01730895000 successful. Fee Tk 0.00. Balance Tk 19,700.35. TrxID 9FM520FQ2Z at 22/06/2022 08:49,0173089500,8.49,2000

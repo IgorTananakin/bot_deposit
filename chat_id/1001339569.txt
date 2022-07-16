@@ -1,0 +1,6 @@
+Deposit,Bkash,User id:,422153735
+Transaction id:9FK40H7B3Q
+Client phone no:01777772275
+Agent phone no:01757789580
+Date&time:20-06-2022(3.42pm)
+Amount:2000/=

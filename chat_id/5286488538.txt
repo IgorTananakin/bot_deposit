@@ -1,0 +1,9 @@
+Withdraw,Nagad,Withdraw: Nagad
+User id: 443024289
+Withdrawal request id: 1123815243
+Client phone number: 01921645303
+Date: 7/7/2022
+Time: 10.11
+Amount: 1008
+
+Status: in work 👨‍💻,Oo,I

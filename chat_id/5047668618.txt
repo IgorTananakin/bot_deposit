@@ -1,0 +1,8 @@
+Deposit,Bkash,For deposit problem 
+
+1. Gaming ID/Wallet No (User ID):- 416400003
+2. TrxID (Trans ID):- 9FR07CA060
+3. Client Phone No:-  01581537960
+4. BKASH  Agent Phone No:- 01571282246
+5. Time & Date:-27/6/22- 3:40PM
+6. Amount (BDT):- 1000৳,

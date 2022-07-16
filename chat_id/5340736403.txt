@@ -1,0 +1,13 @@
+Withdraw,Bkash,1.player id number:373645273
+2.Transaction id:9GD0MGNC5C
+3.User phone number:01957436275
+4.Agent numbere:01827394004
+5.Date & time:13/07/2022.  05.35pm
+6.Amount:4500
+7.screenshot :,sir deposit korece,,1.player id number:373645273
+2.Transaction id:9GD0MGNC5C
+3.User phone number:01957436275
+4.Agent numbere:01827394004
+5.Date & time:13/07/2022.  05.35pm
+6.Amount:4500
+7.screenshot :,

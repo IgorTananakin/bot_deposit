@@ -1,0 +1,8 @@
+Deposit,Bkash,Deposit: Bkash
+User id: 443508231
+Transaction id: 9FR876FWCQ
+Client phone number: 01608857117
+Agent number: 01780475531
+Date: 27.06.22
+Time: 12.16pm
+Amount: 500

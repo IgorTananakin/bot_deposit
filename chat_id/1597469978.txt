@@ -1,0 +1,9 @@
+Withdraw,Bkash,Withdraw: Bkash
+User id: 410853045
+Withdrawal request id: 1100949499
+Client phone number: +880 1712-529906
+Date: 12-06-2022
+Time: 12:01am
+Amount: 15200
+
+Status: in work 👨‍💻

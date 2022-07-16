@@ -1,0 +1,7 @@
+Withdraw,Bkash,9GB1L38Z95,হেলো,01889019667,Deposit: (মেথড এর নাম  bKash 
+User id: 443186457
+, Transaction id:
+ , Client phone number 01889019667
+: , Agent number: , Date:11/07/22 , Time: 3:35 pm
+ Amount:1000
+Trans ID 9GB1L38Z95
